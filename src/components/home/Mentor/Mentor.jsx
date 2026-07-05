@@ -4,7 +4,7 @@ import MentorContent from "./MentorContent";
 
 const Mentor = () => {
   return (
-    <section className="relative overflow-hidden py-32">
+    <section className="relative overflow-hidden py-16 lg:py-32">
 
       {/* Background */}
       <div className="absolute inset-0">

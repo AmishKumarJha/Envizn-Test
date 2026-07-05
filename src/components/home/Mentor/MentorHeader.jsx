@@ -2,19 +2,14 @@ import mentor from "../../../data/mentor";
 
 const MentorHeader = () => {
   return (
-    <div className="text-center">
+    <div className="text-center px-4">
 
-      <h2 className="text-[64px] leading-none font-semibold text-white">
-
+      <h2 className="text-3xl md:text-4xl lg:text-5xl leading-tight font-semibold text-white">
         {mentor.heading}{" "}
-
-        <span className="text-[#FF6A20]">
-          {mentor.highlight}
-        </span>
-
+        <span className="text-[#FF6A20]">{mentor.highlight}</span>
       </h2>
 
-      <p className="mt-6 text-[#B9B9B9] text-[24px]">
+      <p className="mt-4 text-[#B9B9B9] text-base md:text-lg">
         {mentor.subtitle}
       </p>
 
