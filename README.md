@@ -1,4 +1,4 @@
-# 🚀 Sales Mastery Landing Page
+#  Sales Mastery Landing Page
 
 A modern, responsive landing page built with **React**, **Vite**, and **Tailwind CSS**, inspired by the Sales Mastery design. The project recreates the original UI with reusable components, smooth layouts, and responsive sections.
 
