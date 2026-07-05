@@ -158,5 +158,3 @@ The UI is inspired by the **Sales Mastery** landing page and recreated using reu
 
 **Amish Kumar Jha**
 
-- GitHub: https://github.com/AmishKumarJha
-- LinkedIn: https://www.linkedin.com/in/amish-kumar-jha/
